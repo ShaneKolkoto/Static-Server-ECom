@@ -31,7 +31,7 @@
 ## Why ExpressJS?
 
 > - Express was created to make APIs and web applications with ease,
-> - t saves a lot of coding time almost by half and still makes web and mobile applications are efficient.
+> - it saves a lot of coding time almost by half and still makes web and mobile applications are efficient.
 > - Another reason for using express is that it is written in javascript as javascript is an easy language even if you don't have a previous
 > - knowledge of any language. Express lets so many new developers enter the field of web development.
 
